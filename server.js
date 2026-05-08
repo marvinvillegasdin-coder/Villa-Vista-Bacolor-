@@ -1,5 +1,5 @@
 const express = require('express');
-const path = require('path');
+const path = ;
 
 const app = express();
 app.use(express.json());
