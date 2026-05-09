@@ -4,8 +4,7 @@
   "description": "Villa Vista Bacolor AI Chatbot",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "echo 'No build needed'"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
